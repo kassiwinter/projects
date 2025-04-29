@@ -1,4 +1,4 @@
-# My Projects
+# ⭐ My Projects
 
 A collection of my passion programming projects.
 
