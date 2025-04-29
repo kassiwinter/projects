@@ -14,7 +14,6 @@ A collection of my passion programming projects.
 ## 🌐Web Development
 
 - [Open Recipies](https://github.com/AlfredMadere/open-recipes) - A service for a meal planning and recipe management aimed primarily at college students and young adults.
-- 
 
 
 ## 📈Data Analysis
