@@ -18,4 +18,4 @@ A collection of my passion programming projects.
 
 ## 📈Data Analysis
 
-- [Nurse Shift Analysis](https://github.com/kassiwinter/nurse-shift-insight) - Used to identify inefficiencies in the way nurse shifts are being posted and booked.
+- [Nurse Shift Analysis](https://github.com/kassiwinter/project-nurse-shift-insight) - Used to identify inefficiencies in the way nurse shifts are being posted and booked.
